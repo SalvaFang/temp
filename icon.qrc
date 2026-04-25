@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>eye.png</file>
+        <file>eye.ico</file>
+        <file>CalibMeCollectionMarker.png</file>
+        <file>tmp.png</file>
+        <!-- 专业相机控制图标 -->
+        <file>iconSet/exposureValue.png</file>
+        <file>iconSet/whiteBalance.png</file>
+        <file>iconSet/colorAdjust.png</file>
+        <file>iconSet/resolution.png</file>
+        <file>iconSet/frameRate.png</file>
+        <file>iconSet/cameraList.png</file>
+        <file>iconSet/settings.png</file>
+        <file>iconSet/Gray.png</file>
+        <file>iconSet/flip.png</file>
+        <file>iconSet/sampling.png</file>
+        <file>iconSet/ROI.png</file>
+        <file>iconSet/bitDepth.png</file>
+        <file>iconSet/bitDepth2.png</file>
+        <file>iconSet/powerFrec.png</file>
+        <file>iconSet/tempCooling.png</file>
+        <file>iconSet/misc.png</file>
+        <file>iconSet/histogram.png</file>
+        <file>iconSet/darkField.png</file>
+    </qresource>
+</RCC>
